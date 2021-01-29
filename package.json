@@ -1,0 +1,24 @@
+{
+  "name": "cypress-sample",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "e2e": "cypress open"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dixy-xavier/cypress-sample.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dixy-xavier/cypress-sample/issues"
+  },
+  "homepage": "https://github.com/dixy-xavier/cypress-sample#readme",
+  "devDependencies": {
+    "cypress": "^6.3.0"
+  }
+}
